@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "joe@glisco.io",
+      "properties": {
+        "fullname": "Plone6Runtime",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plone6runtime"
+    }
+  ],
+    "team": [
+  ]
+}

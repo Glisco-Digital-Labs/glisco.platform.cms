@@ -1,0 +1,5 @@
+{
+  "volto-plone6runtime": {
+    "local": "addons/volto-plone6runtime/src"
+  }
+}

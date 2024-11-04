@@ -1,0 +1,4 @@
+# Changes
+## 1.0.0 (2024-11-04)
+
+- Initial version [joemedicis]

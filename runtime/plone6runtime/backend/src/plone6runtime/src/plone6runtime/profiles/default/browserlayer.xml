@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layers>
+  <layer interface="plone6runtime.interfaces.IPlone6RuntimeLayer"
+         name="plone6runtime"
+  />
+</layers>

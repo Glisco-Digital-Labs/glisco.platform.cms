@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store plone6runtime.example.com postgres data
+  - path: "/srv/plone6runtime/data"
+    owner: 999
+    group: 999
+    mode: "0750"
