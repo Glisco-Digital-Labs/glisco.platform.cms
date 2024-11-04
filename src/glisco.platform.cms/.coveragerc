@@ -1,0 +1,6 @@
+[report]
+include =
+    src/glisco.platform/*
+omit =
+    */test*
+    */upgrades/*
