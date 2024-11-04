@@ -2,3 +2,4 @@
 
 zope.testrunner
 flake8-pyproject
+example.contenttype

@@ -1,6 +1,7 @@
 default_context:
     initial_user_name: 'admin'
     initial_user_password: 'admin'
-    zcml_package_includes: 'plone6runtime'
+    zcml_package_includes: 'plone6runtime, example.contenttype'
 
     db_storage: direct
+
