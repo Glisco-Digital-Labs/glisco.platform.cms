@@ -26,7 +26,6 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "private": false,
   "workspaces": [
     "src/addons/volto-plone6runtime"
   ],
